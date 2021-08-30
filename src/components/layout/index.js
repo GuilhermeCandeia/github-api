@@ -1,6 +1,6 @@
 import React from "react";
-import * as S from "./slyled";
 import Header from "../header";
+import * as S from "./styled";
 
 const Layout = ({ children }) => {
   return (
